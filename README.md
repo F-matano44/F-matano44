@@ -1,2 +1,2 @@
-# My repositories were moved GitLab.
+# My repositories were moved to GitLab.
 https://gitlab.com/f-matano44
